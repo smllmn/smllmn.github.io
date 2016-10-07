@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Primality Testing
+categories: ["mathematics", "primality", "python"]
 ---
 I spent the past week working on implementing the Baillie-PSW probable prime test, and it’s been a lot of fun. It’s pushed my abilities in interesting ways, and I’ve had a lot of fun working on the code. I’ve learnt about profiling code in Python, as well as fast modular exponentiation.
 
