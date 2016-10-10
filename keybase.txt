@@ -1,0 +1,69 @@
+==================================================================
+https://keybase.io/smllmn
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://smllmn.com
+  * I am smllmn (https://keybase.io/smllmn) on keybase.
+  * I have a public key with fingerprint D1B8 EB87 1683 5333 EE80  DEBA E841 E46D 0574 A677
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "01017f585eb064695f9b95cea9de85fd0dcc1df964638005aca9af9cecbab76be3d30a",
+            "fingerprint": "d1b8eb8716835333ee80debae841e46d0574a677",
+            "host": "keybase.io",
+            "key_id": "e841e46d0574a677",
+            "kid": "01017f585eb064695f9b95cea9de85fd0dcc1df964638005aca9af9cecbab76be3d30a",
+            "uid": "f7168a0c7f14c15f8bb753ba462e7519",
+            "username": "smllmn"
+        },
+        "service": {
+            "hostname": "smllmn.com",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1476113606,
+    "expire_in": 157680000,
+    "prev": "cac880d1a37c43b86a56e3068f7837e23f54026f37ece62cfaff98f87b7912ec",
+    "seqno": 12,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.58
+Comment: https://keybase.io/crypto
+
+yMIhAnicrVJbbAxRGN5ekF33EkTSkHngwWJu58zMxjVWpdKUhpCybM45c2Y7ujOz
+ZmdbtxIJIkrcSh8aJC6NkPQSdQsSrDSiTUSJbl0ShBf1giDiEmcaHiQePZ1z/v/7
+vvN9f/47wwsCoTxYmDjbJAVe5XXdasgEVn7r6NzMYUffyEU2c9V04KBJnaa9eLWp
+cxGOF3hBMYAKKOahDDVgaFgDhCJNpyowdF4nRNANjfUklecBIkhDhkYowQgrEFNJ
+l3jEhTnDtBPUTbmm7TFZXcAqxaoiQFUCkiRRqvI6xYiqskBlqPNAkRFUFEasctI+
+g5nDKE1nmA6rsUd8wN4/8P/Zd2ZAzvCdIp4ohiATARgqxgqQMJKhSBUgaD4wTV0b
+WZSh01YyadlcXZhjtRqTUH+sfo6/+jOIYzFeynU8hzhJVq/yvFQ64vO8jSkfWEtx
+/LdEHJu2zmbIGDXUTZuOzUUEhiSe6WsKsgIFQYI8DHN0Q8p0adz0EUCBLB7P+//Q
+GiZJEFHZrAUkKUSWsAoRgFTioWooqqRQUTKAzIvQYHdCoUgMZBiaaqgKVjRBpITz
+Q623HaYtMp8o4ecxEzbyMi7l6m7fjBUG8kKBwYPy/eUKhIKj/qzco4IhP4Wi2Ymr
+E9/erSwDT08+f9Zddmryix9DxJLXFe+bMvlocjLU1io+2JQrH/z4YqEm2tqZj2K2
+aLw1etGztR0Hp084PDK4/sBctzS4qjn4fmJxGA2Ldm0dW9lyraBo8eqlny5X5p7s
+mDLT+nqWLF/hddwbkcvuHmaWR/d3jsv2tg8dVGL3WpGWus5Q6EjLjS9vqu9eqY21
+5rLW9sZoeNnOilx3rGVh/rHP274f6j26xrw/6lL/2y11r6ZVPexfVwxmHc2uWtq2
+etdx8LI50TPUWzKvNeG+m23vje1pnPpi0pi+O1KPuq+9IXpyzqz5qPjE+Q+nr5eU
+1tdGMvV9FxZM+Bo913z1FxEWPb8=
+=P9xY
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/smllmn
+
+==================================================================
+
