@@ -35,7 +35,7 @@ being open, I've never given anyone mine either). Here's where keybase comes
 in: it provides a centralised place to host a public key that the whole world
 can see.
 
-It's not without its problems, though. The _smllmn_ keybase account has proven
+It's not without its problems, though. The [smllmn](http://keybase.io/smllmn) keybase account has proven
 that they own this domain and the other accounts listed on that page, but do
 you know for certain that the owner of this domain and those accounts is
 actually Luke Smallman? Unless you've met him in person and he has verified
