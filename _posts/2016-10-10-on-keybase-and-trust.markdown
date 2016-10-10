@@ -3,12 +3,12 @@ layout: post
 title: On keybase and trust
 categories: ["keybase", "trust", "digital security"]
 ---
-You may have noticed the shiny little [keybase.io](keybase.io) icon at the 
+You may have noticed the shiny little [keybase.io](http://keybase.io) icon at the 
 bottom of my website. You may even have clicked on it. If you haven't, take a
 quick look.
 
 On that profile, there are a number of _verified_ accounts and the like,
-including my [twitter](twitter.com/smllmn), [github](github.com/smllmn) and
+including my [twitter](http://twitter.com/smllmn), [github](http://github.com/smllmn) and
 this website. Verified, in this case, means that there exists a publicly
 available demonstration that I both control that account and the private key
 whose corresponding public key is available on the keybase profile.
