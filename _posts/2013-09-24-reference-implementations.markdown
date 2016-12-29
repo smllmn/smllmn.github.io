@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Reference Implementations
-categories: ["python", "programming"]
+categories: programming
+tags: [python, programming]
 ---
 Recently I’ve been playing around with a Lisp dialect called Scheme. It’s an absolutely tiny language designed to be very easy to implement. The very first problem I had with Scheme is that it’s very easy to implement; consequently, there are a lot of implementations. This is great when you have a good grasp of the language – you know which features of different implementations will suit you best, and you can choose the right implementation for you and your projects. When you’re just starting out, however, it can be a tricky – and daunting – task to choose from a list of so many different implementations with differences you don’t grasp.
 

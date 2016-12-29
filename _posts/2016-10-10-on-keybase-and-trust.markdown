@@ -1,7 +1,8 @@
 ---
 layout: post
 title: On keybase and trust
-categories: ["keybase", "trust", "digital security"]
+tags: [keybase, trust, digitalsecurity]
+categories: digitalsecurity
 ---
 You may have noticed the shiny little [keybase.io](http://keybase.io) icon at the 
 bottom of my website. You may even have clicked on it. If you haven't, take a

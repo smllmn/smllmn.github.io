@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Recursive atoi in Haskell
-categories: ["haskell", "programming"]
+tags: [haskell, programming]
+categories: programming
 ---
 A friend of mine suggested, during a conversation, that it would be difficult to write a recursive implementation of atoi which could handle all real numbers (i.e. not just non-negative integers). Well, I decided I had to do it anyway. I will freely admit that most of my time was spent remembering how Haskell works.
 
