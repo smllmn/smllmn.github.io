@@ -10,7 +10,7 @@ title: Luke Smallman
 email: mail@smllmn.com
 description: Statistics, mathematics, computer science and more.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://smllmn.github.io" # the base hostname & protocol for your site
+url: "http://smllmn.com" # the base hostname & protocol for your site
 twitter_username:  smllmn
 github_username:   smllmn
 keybase_username:  smllmn
