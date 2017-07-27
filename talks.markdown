@@ -5,7 +5,7 @@ permalink: /talks/
 ---
 
 ## Contributed Talks
-* Sparse Generalised Principal Component Analysis -- Welsh mathematics Colloquium 2017
+* Sparse Generalised Principal Component Analysis -- Welsh Mathematics Colloquium 2017
 * Generalised Principal Component Analysis for Text Data -- Young Statisticians' Meeting 2016
 
 ## PGR Seminars
