@@ -4,10 +4,10 @@ title : Talks I've Given
 permalink: /talks/
 ---
 
-##Contributed Talks
+## Contributed Talks
 * Sparse Generalised Principal Component Analysis -- Welsh mathematics Colloquium 2017
 * Generalised Principal Component Analysis for Text Data -- Young Statisticians' Meeting 2016
 
-##PGR Seminars
+## PGR Seminars
 * [Millenium Prize Problems](https://github.com/smllmn/millenniumprizestalk)
 * Thue-Morse Sequence
