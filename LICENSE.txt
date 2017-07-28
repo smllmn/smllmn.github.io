@@ -1,4 +1,4 @@
-
+This license pertains to the Gravity theme for Jekyll
 
 MIT License
 
